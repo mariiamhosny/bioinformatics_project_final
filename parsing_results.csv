@@ -1,0 +1,6 @@
+filename,class,disease,total_reads,avg_length,avg_gc_percent,avg_quality
+cancer.fastq,1,breast_cancer,1000,50.0,50.76,36.83
+cancer2.fastq,1,breast_cancer,1000,50.0,50.44,36.55
+cancer3.fastq,1,breast_cancer,1000,50.0,50.59,36.89
+healthy.fastq,0,healthy,1000,50.0,49.03,34.63
+healthy2.fastq,0,healthy,1000,50.0,56.01,36.51
